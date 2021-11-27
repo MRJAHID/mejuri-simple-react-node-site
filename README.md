@@ -1,4 +1,4 @@
-# TimeKeeper (frontend)
+# MEJURI (frontend)
 
 **MEJURI** is a full feature Online niche Product Application,That's contains lot's of feature like product ordering,customer reviewing,product ordering and also including admin and user dashboard with orders and product management. **MEJURI**
 
